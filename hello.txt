@@ -1,2 +1,0 @@
-hello nodejs
-more shit written but no race condition
